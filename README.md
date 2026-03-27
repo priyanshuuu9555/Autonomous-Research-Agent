@@ -17,7 +17,7 @@ This project builds an AI agent that can automatically research a topic and gene
 ## Sample Outputs
 Two reports generated:
 - Impact of AI in Healthcare
-- Impact of AI in Education
+- Impact of AI in E-commerce
 
 ## How to Run
 1. Install dependencies
